@@ -34,11 +34,12 @@
       "website": "http://www.citycorridor.com",
       "startDate": "2012-08-01",
       "endDate": "2015-04-31",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "summary": "City Corridor develops and maintains a secure distributed sales and advertising platform",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Built a multi-tenant custom content management system",
+        "Built a ETL solution that imports data from multiple partners and data sources into a centralized database",
+        "Developed NodeJS ad-hoc reporting application",
+        "Technologies & Skills: Web Development with ASP.Net MVC, REST and SOAP WebServices, NodeJS, AngularJS, KnockoutJS, jQuery, CSS, Entity Framework, Windows Azure, OAUth 2.0, Microsoft SQL Server, RavenDB, MongoDB, MixPanel, Octopus Deploy, JetBrains TeamCity and YouTrack, Github"
       ]
     },
     {
@@ -51,7 +52,7 @@
       "highlights": [
         "Developed CAC-Authenticated user management software",
         "Developed budgeting solution for managing $1 billion+ assets",
-        "Technologies & Skills: Web Development with ASP.Net Webforms and MVC, NHibernate, EntityFramework, jQuery, CSS, Microsoft SQL Server, SSIS, Crystal Reports"
+        "Technologies & Skills: Web Development with ASP.Net Webforms and MVC, SOAP WebServices, NHibernate, EntityFramework, jQuery, CSS, Microsoft SQL Server, SSIS, Crystal Reports, Microsoft Visual SourceSafe"
       ]
     },
     {
@@ -64,7 +65,7 @@
       "highlights": [
         "Rebranding of online presence for 3 websites, providing self-service account tools for 50,000+ accounts",
         "Developed the online presence for a retirement community website featuring a custom XML-based content management system",
-        "Technologies & Skills: Web Development with ASP.Net Webforms, jQuery, CSS, Microsoft SQL Server, SSIS, Graphic Design"
+        "Technologies & Skills: Web Development with ASP.Net Webforms, SOAP WebServices, jQuery, CSS, Microsoft SQL Server, SSIS, Graphic Design"
       ]
     },
     {
@@ -77,7 +78,7 @@
       "highlights": [
         "Developed XML-based Adobe Flash training tools and games featuring custom XML-based content management systems",
         "Lead redesign of several high-traffic websites and assisted team members in web development",
-        "Technologies & Skills: Web Development with ASP.Net Webforms, JavaScript, CSS, Microsoft SQL Server, Graphic Design"
+        "Technologies & Skills: Web Development with ASP.Net Webforms, SOAP WebServices, JavaScript, CSS, Microsoft SQL Server, Graphic Design"
       ]
     }
   ],
@@ -98,20 +99,54 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
+      "level": "Experienced",
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "ASP.Net C# and VB.Net",
+        "REST and SOAP WebServices",
+        "NodeJS",
+        "GulpJS",
+        "AngularJS",
+        "KnockoutJS",
+        "Visual Studio",
+        "WebStorm",
+        "Sublime Text"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Database Programming",
+      "level": "Experienced",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Microsoft SQL Server",
+        "RavenDB",
+        "MongoDB",
+        "Microsoft Entity Framework",
+        "NHibername",
+        "Dapper Micro-ORM"
+      ]
+    },
+    {
+      "name": "Programming Theory",
+      "level": "Experienced",
+      "keywords": [
+        "Dependency Injection/IOC",
+        "Test Driven Development (TDD)",
+        "UML Diagramming",
+        "DRY",
+        "Seperation of Concerns",
+        "Object Oriented Design (OOD)"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": [
+        "Microsoft Powershell",
+        "JetBrains TeamCity",
+        "Octopus Deploy",
+        "One Click Deploys"
       ]
     }
   ],
