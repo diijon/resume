@@ -32,7 +32,7 @@
       "company": "City Corridor",
       "position": "Software Engineer",
       "website": "http://www.citycorridor.com",
-      "startDate": "2012-07-01",
+      "startDate": "2012-08-01",
       "endDate": "2015-04-31",
       "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
@@ -40,52 +40,61 @@
         "Successfully won Techcrunch Disrupt",
         "Optimized an algorithm that holds the current world record for Weisman Scores"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "company": "Unisys - Federal Systems",
+      "position": "Software Architect",
+      "website": "http://federal.unisys.com",
+      "startDate": "2009-07-01",
+      "endDate": "2012-07-31",
+      "summary": "Unisys Federal Systems develops software applications to assist government agencies in data-mining, budget analysis, inventory tracking, and document management",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Developed CAC-Authenticated user management software",
+        "Developed budgeting solution for managing $1 billion+ assets",
+        "Technologies & Skills: Web Development with ASP.Net Webforms and MVC, NHibernate, EntityFramework, jQuery, CSS, Microsoft SQL Server, SSIS, Crystal Reports"
+      ]
+    },
+    {
+      "company": "Tidewater Finance Company",
+      "position": "IT Programmer",
+      "website": "http://www.twcs.com",
+      "startDate": "2008-04-01",
+      "endDate": "2009-07-31",
+      "summary": "Tidewater Finance Company provides assistance to consumers purchasing goods by building direct relationships with retail and automobile merchants",
+      "highlights": [
+        "Rebranding of online presence for 3 websites, providing self-service account tools for 50,000+ accounts",
+        "Developed the online presence for a retirement community website featuring a custom XML-based content management system",
+        "Technologies & Skills: Web Development with ASP.Net Webforms, jQuery, CSS, Microsoft SQL Server, SSIS, Graphic Design"
+      ]
+    },
+    {
+      "company": "City of Virginia Beach - ComIT",
+      "position": "Programmer/Analyst",
+      "website": "http://www.vbgov.com/government/departments/communications-info-tech/Pages/default.aspx",
+      "startDate": "2001-09-01",
+      "endDate": "2008-04-01",
+      "summary": "The City of Virginia Beach ComIT department is responsible for delivering technology solutions to all City of Virginia Beach departments and citizens",
+      "highlights": [
+        "Developed XML-based Adobe Flash training tools and games featuring custom XML-based content management systems",
+        "Lead redesign of several high-traffic websites and assisted team members in web development",
+        "Technologies & Skills: Web Development with ASP.Net Webforms, JavaScript, CSS, Microsoft SQL Server, Graphic Design"
       ]
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "institution": "Old Dominion University",
+      "area": "Graphic Design",
+      "studyType": "Bachelor of Fine Arts",
+      "startDate": "2004-01-01",
+      "endDate": "2007-05-01",
+      "gpa": "3.5",
+      "courses": []
     }
   ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
+  "awards": [],
+  "publications": [],
   "skills": [
     {
       "name": "Web Development",
@@ -121,10 +130,5 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ]
+  "references": []
 }
