@@ -99,7 +99,7 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Experienced",
+      "level": "Master",
       "keywords": [
         "HTML",
         "CSS",
@@ -117,7 +117,7 @@
     },
     {
       "name": "Database Programming",
-      "level": "Experienced",
+      "level": "Master",
       "keywords": [
         "Microsoft SQL Server",
         "RavenDB",
@@ -129,7 +129,7 @@
     },
     {
       "name": "Programming Theory",
-      "level": "Experienced",
+      "level": "Master",
       "keywords": [
         "Dependency Injection/IOC",
         "Test Driven Development (TDD)",
@@ -160,8 +160,7 @@
     {
       "name": "Madden NFL Football",
       "keywords": [
-        "All Madden",
-        "Unicorns"
+        "All Madden+"
       ]
     }
   ],
