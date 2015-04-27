@@ -136,11 +136,15 @@
         "UML Diagramming",
         "DRY",
         "Seperation of Concerns",
-        "Object Oriented Design (OOD)"
+        "Object Oriented Design (OOD)",
+        "SOLID Principles",
+        "YAGNI",
+        "SCRUM",
+        "Agile Development"
       ]
     },
     {
-      "name": "DevOps",
+      "name": "Development Operations (DevOps)",
       "level": "Intermediate",
       "keywords": [
         "Microsoft Powershell",
