@@ -39,7 +39,7 @@
         "Built a multi-tenant custom content management system",
         "Built a ETL solution that imports data from multiple partners and data sources into a centralized database",
         "Developed NodeJS ad-hoc reporting application",
-        "Technologies & Skills: Web Development with ASP.Net MVC, REST and SOAP WebServices, NodeJS, AngularJS, KnockoutJS, jQuery, CSS, Entity Framework, Windows Azure, OAUth 2.0, Microsoft SQL Server, RavenDB, MongoDB, MixPanel, Octopus Deploy, JetBrains TeamCity and YouTrack, Github"
+        "Technologies & Skills: Web Development with ASP.Net MVC, REST and SOAP WebServices, NodeJS, AngularJS, KnockoutJS, jQuery, CSS, Entity Framework, Windows Azure, OAuth 2.0, Auth0, Microsoft SQL Server, RavenDB, MongoDB, MixPanel, Octopus Deploy, JetBrains TeamCity and YouTrack, Github. SCRUM Development and daily stand-up meetings."
       ]
     },
     {
@@ -104,7 +104,9 @@
         "HTML",
         "CSS",
         "Javascript",
-        "ASP.Net C# and VB.Net",
+        "C#",
+        "VB.Net"
+        "ASP.Net MVC and WebForms",
         "REST and SOAP WebServices",
         "NodeJS",
         "GulpJS",
@@ -128,7 +130,7 @@
       ]
     },
     {
-      "name": "Programming Theory",
+      "name": "Software Practices",
       "level": "Master",
       "keywords": [
         "Dependency Injection/IOC",
@@ -140,7 +142,8 @@
         "SOLID Principles",
         "YAGNI",
         "SCRUM",
-        "Agile Development"
+        "Agile Development",
+        "Software Development Life Cycle (SDLC)"
       ]
     },
     {
