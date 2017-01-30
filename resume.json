@@ -6,11 +6,11 @@
     "email": "diijon@gmail.com",
     "phone": "(757) 328-5007",
     "website": "",
-    "summary": "Professional Web Developer, Programmer, Database Analyst, and Graphic Designer that specializes in blending powerful web solutions and data exchange with quality layout and design. I have more than ten years of experience working with web technologies.",
+    "summary": "Disciplined and passionate developer interested in making software that exceeds expectations and offers unquestionable value. I have more than ten years of experience working with web technologies.",
     "location": {
       "address": "",
       "postalCode": "VA",
-      "city": "Charlottesville",
+      "city": "Waynesboro",
       "countryCode": "US",
       "region": "Virginia"
     },
@@ -29,6 +29,19 @@
   },
   "work": [
     {
+      "company": "Surge LLC",
+      "position": "Senior Software Engineer",
+      "website": "http://www.surgeforward.com",
+      "startDate": "2015-06-01",
+      "endDate": null,
+      "summary": "Surge hires only remote senior developers to deliver custom software to a diverse range of industries",
+      "highlights": [
+        "UnderArmour.com microarchitecture/uarch developer including ReactJS, Angular front-end projects and highly scalable NodeJS REST APIs",
+        "Built ETL solution using SSIS and stored procedures to migrate several Oracle Databases into a SQL Server Database",
+        "Lead Systems Architect for an electronic health records system (EHR)"
+      ]
+    },
+    {
       "company": "City Corridor",
       "position": "Software Engineer",
       "website": "http://www.citycorridor.com",
@@ -36,10 +49,9 @@
       "endDate": "2015-04-31",
       "summary": "City Corridor develops and maintains a secure distributed sales and advertising platform",
       "highlights": [
-        "Built a multi-tenant custom content management system",
-        "Built a ETL solution that imports data from multiple partners and data sources into a centralized database",
-        "Developed NodeJS ad-hoc reporting application",
-        "Technologies & Skills: Web Development with ASP.Net MVC, REST and SOAP WebServices, NodeJS, AngularJS, KnockoutJS, jQuery, CSS, Entity Framework, Windows Azure, OAuth 2.0, Auth0, Microsoft SQL Server, RavenDB, MongoDB, MixPanel, Octopus Deploy, JetBrains TeamCity and YouTrack, Github. SCRUM Development and daily stand-up meetings."
+        "Built a multi-tenant custom content management system with an ASP.Net MVC, SQL Server back-end, and KnockoutJS front-end",
+        "Built a REST API ETL solution that imports data from multiple partners and data sources (xml, json) into a SQL Server database",
+        "Developed NodeJS ad-hoc reporting application accessible with a REST API"
       ]
     },
     {
@@ -50,9 +62,9 @@
       "endDate": "2012-07-31",
       "summary": "Unisys Federal Systems develops software applications to assist government agencies in data-mining, budget analysis, inventory tracking, and document management",
       "highlights": [
-        "Developed CAC-Authenticated user management software",
-        "Developed budgeting solution for managing $1 billion+ assets",
-        "Technologies & Skills: Web Development with ASP.Net Webforms and MVC, SOAP WebServices, NHibernate, EntityFramework, jQuery, CSS, Microsoft SQL Server, SSIS, Crystal Reports, Microsoft Visual SourceSafe"
+        "Developed a highly computational SSIS ETL solution to support budget analysis",
+        "Developed Common Access Card (CAC)-Authenticated user management software with ASP.Net WebForms",
+        "Developed budgeting solution for managing $1 billion+ assets with ASP.Net MVC, jQuery, and Entity Framework"
       ]
     },
     {
@@ -106,15 +118,16 @@
         "Javascript",
         "C#",
         "VB.Net",
-        "ASP.Net MVC and WebForms",
+        "ASP.Net Core, MVC, and WebForms",
         "REST and SOAP WebServices",
         "NodeJS",
-        "GulpJS",
+        "ReactJS",
         "AngularJS",
         "KnockoutJS",
-        "Visual Studio",
-        "WebStorm",
-        "Sublime Text"
+        "Webpack",
+        "GulpJS",
+        "Python",
+        "Django"
       ]
     },
     {
@@ -122,6 +135,8 @@
       "level": "Master",
       "keywords": [
         "Microsoft SQL Server",
+        "PostgreSQL",
+        "Oracle",
         "RavenDB",
         "MongoDB",
         "Microsoft Entity Framework",
@@ -133,9 +148,9 @@
       "name": "Software Practices",
       "level": "Master",
       "keywords": [
+        "Microarchitecture/uarch",
         "Dependency Injection/IOC",
         "Test Driven Development (TDD)",
-        "UML Diagramming",
         "DRY",
         "Seperation of Concerns",
         "Object Oriented Design (OOD)",
@@ -150,10 +165,30 @@
       "name": "Development Operations (DevOps)",
       "level": "Intermediate",
       "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Azure API",
+        "Google Cloud Platform API",
         "Microsoft Powershell",
         "JetBrains TeamCity",
         "Octopus Deploy",
-        "One Click Deploys"
+        "AppVeyor"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "TFS",
+        "Visual Studio (Code and Traditional)",
+        "Atom",
+        "Sublime Text",
+        "Jira",
+        "Rally",
+        "SSMS",
+        "DataGrip",
+        "LinqPad"
       ]
     }
   ],
@@ -165,9 +200,8 @@
   ],
   "interests": [
     {
-      "name": "Madden NFL Football",
+      "name": "Madden NFL Football, Augmented Reality aka The Future!!!",
       "keywords": [
-        "All Madden+"
       ]
     }
   ],
